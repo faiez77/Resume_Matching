@@ -1,0 +1,4 @@
+We are hiring a Data Analyst Intern who has strong skills in Python, SQL,
+data analysis, and statistics. The candidate should be comfortable working
+with pandas, NumPy, and data visualization tools like Tableau or Power BI.
+Basic knowledge of machine learning and data cleaning is a plus.
